@@ -1,0 +1,2 @@
+1. <a data-item="아이템명"><아이콘이미지 /></a> 생성
+2. 위 DOM 밑에 <div class="tooltip-bubble hide" data-item="아이템명">툴팁텍스트</div> 생성
